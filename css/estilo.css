@@ -1,0 +1,56 @@
+
+
+span{
+    padding: 0px;
+    margin: 0px -2px;
+    border: 1px ;
+}
+
+    .black{
+    color:rgba(0, 0, 0, 0.664)
+}
+    .white{
+        color: white;
+        font-size: 16px;
+        margin: 10px;
+        text-decoration: none;
+    }
+
+#cabeçalho{
+    background: gold;
+    width: 100%;
+    height: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color:white;
+    font-size: 32px;
+    border: 20px solid gold;
+}
+
+#postagens{
+    width: 800px;
+    background: white;
+    padding: 10px;
+    margin: 10px 700px 10px 150px;
+    border: 1px solid red;
+    
+}
+
+body{
+    background: #DCDCDC	;
+}
+
+a:hover{
+    background: white;
+    color: gold;
+}
+
+h1{
+    color: gold;
+    font-size: 16;
+}
+
+p{
+    padding: 0px;
+    margin: 0px;
+}
